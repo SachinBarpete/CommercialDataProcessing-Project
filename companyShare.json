@@ -1,0 +1,19 @@
+[ {
+  "companySymbol" : "TCS",
+  "companyShare" : 76,
+  "companySharePrice" : 110,
+  "companyTotalValue" : 1760.0,
+  "sharePrice" : 110
+}, {
+  "companySymbol" : "wipro",
+  "companyShare" : 109,
+  "companySharePrice" : 300,
+  "companyTotalValue" : 22500.0,
+  "sharePrice" : 300
+}, {
+  "companySymbol" : "thoughtworks",
+  "companyShare" : 80,
+  "companySharePrice" : 250,
+  "companyTotalValue" : 20000.0,
+  "sharePrice" : 250
+} ]

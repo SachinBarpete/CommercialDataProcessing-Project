@@ -1,0 +1,21 @@
+[ {
+  "customerSymbol" : 1,
+  "customerName" : "sachin",
+  "customerShare" : 229,
+  "ammount" : 197480
+}, {
+  "customerSymbol" : 2,
+  "customerName" : "ankush",
+  "customerShare" : 40,
+  "ammount" : 41000
+}, {
+  "customerSymbol" : 3,
+  "customerName" : "ankit",
+  "customerShare" : 65,
+  "ammount" : 95050
+}, {
+  "customerSymbol" : 5,
+  "customerName" : "sachin",
+  "customerShare" : 200,
+  "ammount" : 500000
+} ]
