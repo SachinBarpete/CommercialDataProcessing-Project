@@ -1,14 +1,14 @@
 [ {
   "companySymbol" : "TCS",
-  "companyShare" : 76,
+  "companyShare" : 68,
   "companySharePrice" : 110,
-  "companyTotalValue" : 1760.0,
+  "companyTotalValue" : -1320.0,
   "sharePrice" : 110
 }, {
   "companySymbol" : "wipro",
-  "companyShare" : 109,
+  "companyShare" : 106,
   "companySharePrice" : 300,
-  "companyTotalValue" : 22500.0,
+  "companyTotalValue" : 21600.0,
   "sharePrice" : 300
 }, {
   "companySymbol" : "thoughtworks",

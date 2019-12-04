@@ -1,5 +1,9 @@
 package com.bridgelabz.cdp.model;
 
+/**
+ * @author Sachin Barpete
+ * @purpose object for trnsaction.json file
+ */
 public class Transaction {
 
 	private int transactionId;

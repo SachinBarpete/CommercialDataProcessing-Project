@@ -1,5 +1,8 @@
 package com.bridgelabz.cdp.model;
-
+/**
+ * @author Sachin Barpete
+ * @purpose object for customerInfo.json file
+ */
 public class CustomerInfo {
 
 	private int customerSymbol;

@@ -1,5 +1,8 @@
 package com.bridgelabz.cdp.model;
-
+/**
+ * @author Sachin Barpete
+ * @purpose object for companyShare.json file
+ */
 public class CompanyShare {
 	
 	private String companySymbol;

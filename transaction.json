@@ -34,4 +34,22 @@
   "seller" : "TCS",
   "transactionAmmount" : 990.0,
   "date" : "02/11/2019 19:27:17"
+}, {
+  "transactionId" : 97988,
+  "buyer" : "1sachin",
+  "seller" : "wipro",
+  "transactionAmmount" : 900.0,
+  "date" : "29/11/2019 10:01:57"
+}, {
+  "transactionId" : 94152,
+  "buyer" : "1sachin",
+  "seller" : "TCS",
+  "transactionAmmount" : 1980.0,
+  "date" : "29/11/2019 10:02:43"
+}, {
+  "transactionId" : 68975,
+  "buyer" : "TCS",
+  "seller" : "sachin",
+  "transactionAmmount" : 1100.0,
+  "date" : "29/11/2019 10:03:14"
 } ]
